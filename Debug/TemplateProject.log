@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(37,5): warning MSB4211: La propiedad "IntermediateOutputPath" se va a establecer en un valor por primera vez, pero ya se utilizó en "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(340,5): warning MSB4211: La propiedad "CleanFile" se va a establecer en un valor por primera vez, pero ya se utilizó en "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)".
+cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Arbol2.cpp
+  TemplateProject.vcxproj -> C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Debug\TemplateProject.exe
